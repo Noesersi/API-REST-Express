@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hogwartslibrary-fb9af",
+  "private_key_id": "59a513a328d0f97871611585ef7fc9a27145c160",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCabIZHUYP13v0A\n9n5a+0EZwyObGhbT0q6fIrdT9nOR7uJommuNUQ12C+Y3zTp0sDr0jJ1/nC2RX43c\n9igpff6Sz/Cw0Q+OMbkgmTnx2T3rsKXoLaFEwQyZCTbIXDsxrnRHzUWPkowDnmCs\nFxF6F03+ywVuL+ukz/+X81C7itrxWD8hxvKCmFaBaOUipViUDM9AoYrXukT9BWJ2\nHxRnRi1a0zV3rQB7KfEFGLWwWvCTvDlljevGNcfpMI/MoWrenbZwQFT5nZp0c/yq\nEMyjsxZ96QMxKX1mNT2ez+Tdy76raVMygHQD2vHLF1Sday9z+SOQRNKZ/kzeif5e\nCujdBubxAgMBAAECggEAHbWQVes8YJLAiS1jHNzm5u5wjLgFuUX4u3wB2kD5dhOH\n8oj29S6pUNM0PPsaanW3OfJNoM3qxGOmVuLy0hy/2/3ueA4YmIo/bCKej8V0UMJh\nANy6gJBFfLHVnNGFv+aoz2GSJu+SSWXwgltDzQHryv/DMTI9+yzbJyA0IYiy26iK\nkmFQHXaMxnCIKlqsYdChHFtZfe8uNFgZ2Nc7zcyKF2xOjtZysJxcXsCPyvUhTJcZ\n7f3ANNPKVoD0LO2vcwoN2lTRY4S1STBaXXe+53DydmR8rRn29sWhuilVabZXVx6y\nRUHT/m3AWzB4xzhHudcFRPl38vxsLc/q11/uG8P4OQKBgQDQR7fqnnri2PtHkLZo\n+r31nP8+/y1pkVhWrrsytWUlxvYN4W2K7wpVEMgYEWQrtQRnkS1gXRtv/I1vAwL5\nlGqExuqI1mWoZd46oVn5pRbP4qlKMxiyKgbOgSH114YHZPRIcMLomwnmWxErHxSs\nejRYgvxFad4PMY7HSDCE9AzpbQKBgQC9zfhcnPJu9TNcpBP5sKg3+x0Q6JD/CwYa\nxj3J8FOQuvNgozYzOVLdzqxRFeURr0+PNgjZPlKsQp4jzhlFy2xXU8giMsogXzf0\nFiH4QiI2J0uO7nBh9yWKf/AxiegYHWRf9mVuaRNXQMfcUz30kAgoqZjlInlpZSUH\nFNJ+EUclFQKBgDXqatSkQ8FXU+zZrC6Owf/DrVtcaSALzOdbggAFbvKRh35eXaH6\ncR1GI9X/IoQh7sr0jN+GGqUppl8XU3zSC6TlbS8Q+O3XuOhKfmUedEJKNXKMuZbd\nRDfOu8DNEtf1LTtXXU0jXTOxXUdhW1OuqsBC4BUD68TZGlHCATVZi8IdAoGBAJkO\nLuj/5r9zGyfpZ/JBcmUyKg4ofEQuL44HrmvZUIm1N+0Fr/8+ioQy1OHONho8tHtX\np2sHxsMCNWPKHrcZgxQoi4qISlYwcn5yGpKHQe9JYLSxsg5Nrggxgw9vlalcikSX\n/NM8CEykAIa62YsNWobvvEuJsT48Qc+kCtl+NVDBAoGBAMFw9md8K33cMqfExhFx\ncwJzHJG1ipgRkmmIe4/uIuixdLWxQoYGt/xoGptH7I/mTekOaov0YqZWus5z0jv3\n9v+50HmlrFLvSub9jdbGXXDT8MlOnLk7ilzT6lz6/trFz/bK6uN8IdqgGzvxZDtU\nZVLB6s9XXOB/oNU82whoxuhL\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-c95vz@hogwartslibrary-fb9af.iam.gserviceaccount.com",
+  "client_id": "103151255077508901851",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-c95vz%40hogwartslibrary-fb9af.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
