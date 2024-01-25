@@ -14,11 +14,13 @@ app.use(cors())
 app.use(express.json())
 
 const getAllBooksRoute = require('./routes/getAllBooks')
+const getBookIdRoute = require('./routes/getBookId')
 const addBookRoute = require('./routes/addBook')
 const editBookRoute = require('./routes/editBook')
 const deleteBookRoute = require('./routes/deleteBook')
 
 app.use('/api', getAllBooksRoute)
+app.use('/api', getBookIdRoute)
 app.use('/api', addBookRoute)
 app.use('/api', editBookRoute)
 app.use('/api', deleteBookRoute)
