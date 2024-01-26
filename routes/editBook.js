@@ -10,6 +10,7 @@ router.put('/books/:id', async (req, res) => {
     const bookId = req.params.id
     const updatedBook = req.body
     await hogwartsLibrary.doc(bookId).set(updatedBook, { merge: true })
+    console.log(bookId)
     res.json({ id: bookId, message: 'Book updated successfully' })
   } catch (error) {
     console.error(error)
