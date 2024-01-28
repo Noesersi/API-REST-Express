@@ -15,7 +15,7 @@ app.use((req, res, next) => {
   next()
 })
 
-app.use((err, req, res) => {
+app.use((err, req, res, next) => {
   console.error(`[${new Date().toISOString()}] Error: ${err.stack}`)
   res.status(500).json({ error: 'Internal Server Error' })
 })
@@ -39,4 +39,5 @@ app.use('/api', addAllBooksRoute)
 
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`)
+  console.log(`http://localhost:${port}`)
 })
